@@ -94,11 +94,11 @@ body {
 }
 
 .wrapper {
-  max-width: 80rem; /* 5xl */
+  max-width: 80rem;
   margin: 0 auto;
   padding: 1.25rem 2.5rem;
   width: 100%;
-  color: #606c80; /* Dark-400 */
+  color: #606c80; 
 }
 .flex-center {
   display: flex;
@@ -138,10 +138,10 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  width: 18rem; /* 72 */
+  width: 18rem; 
   background-color: white;
   padding: 1.25rem;
-  box-shadow: 0 4px 6px rgba(128, 90, 213, 0.1); /* Purple shadow */
+  box-shadow: 0 4px 6px rgba(128, 90, 213, 0.1); 
 }
 
 @media (min-width: 1024px) {
