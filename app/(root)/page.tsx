@@ -26,7 +26,7 @@ export default async function Home() {
     <main className="">
       <div className="">
         <h1 className="">Imaginify</h1>
-        <UserButton afterSignOutUrl="/" />
+        {/* <UserButton afterSignOutUrl="/" /> */}
       </div>
       {/* <div className="mt-8">
         <p>Welcome to Imaginify!</p>
